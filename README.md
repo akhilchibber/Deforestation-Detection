@@ -44,3 +44,11 @@ JUPYTER NOTEBOOKE, CLOUD_FREE_DATASET, CLOUDY_DATASET, TRAINING MASKS
 
 This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.
+
+
+
+## Contact
+
+Author - Akhil Chhibber
+
+LinkedIn: https://www.linkedin.com/in/akhilchhibber/
