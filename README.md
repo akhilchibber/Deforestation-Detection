@@ -49,6 +49,6 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 ## Contact
 
-Author - Akhil Chhibber
+Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
