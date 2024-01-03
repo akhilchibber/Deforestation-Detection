@@ -4,25 +4,18 @@
 </p>
 
 ## Title of the dataset:
-DATASET FOR PERFORMING SEMANTIC SEGMENTATION FOR DEFORESTATION MAPPING USING DEEP LEARNING BASED LATE FUSION ARCHITECTURE
-
-
-## Creators:
-AKHIL CHHIBBER
+Dataset for Performing Semantic Segmentation for Deforestation Mapping using Deep Learning based Late Fusion Architecture
 
 
 ## Contributors:
-1. RAIAN VARGAS MARETTE
-2. MARIANA BELGIU
-3. SUGANDH CHAUHAN
+1. Raian Vargas Maretto 
+2. Mariana Belgiu 
+3. Sugandh Chauhan 
 
 
 ## Description:
-This folder includes a total of four sub folders titled (i) 1_JUPYTER_NOTEBOOKS, (ii) 2_CLOUD_FREE_DATASET, (iii) 3_CLOUDY_DATASET and (iv) 4_TRAINING_MASKS. 
+This Github Repository includes a total of four sub folders titled (i) 1_JUPYTER_NOTEBOOKS, (ii) 2_CLOUD_FREE_DATASET, (iii) 3_CLOUDY_DATASET and (iv) 4_TRAINING_MASKS. 
 
-
-## Keywords:
-JUPYTER NOTEBOOKE, CLOUD_FREE_DATASET, CLOUDY_DATASET, TRAINING MASKS
 
 
 ## This dataset contains the following folders:
