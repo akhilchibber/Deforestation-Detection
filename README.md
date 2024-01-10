@@ -5,6 +5,11 @@
 
 
 
+## Dataset
+The dataset used in this project can be found on Kaggle: [Amazon Rainforest Deforestation Dataset](https://www.kaggle.com/datasets/akhilchibber/deforestation-detection-dataset). 
+
+
+
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
@@ -27,3 +32,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
+
+M.Sc. Thesis: https://essay.utwente.nl/91435/1/CHHIBBER_ITC.pdf
