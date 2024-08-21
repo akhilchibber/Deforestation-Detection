@@ -44,3 +44,5 @@ Author: Akhil Chhibber
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
 
 M.Sc. Thesis: https://essay.utwente.nl/91435/1/CHHIBBER_ITC.pdf
+
+Medium Blogs: https://medium.com/@akhil.chibber
